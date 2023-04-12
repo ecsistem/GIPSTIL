@@ -8,11 +8,11 @@ export default function AuthorLayout({ children, frontMatter }) {
 
   return (
     <>
-      <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
+      <PageSEO title={`Sobre - ${name}`} description={`Sobre me - ${name}`} />
       <div className="">
         <div className="space-y-2 pt-6 pb-4 md:space-y-5">
           <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
-            About
+            Sobre
           </h1>
         </div>
         <div className="items-start">

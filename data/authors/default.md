@@ -1,5 +1,5 @@
 ---
-name: Edson Costa
+name: GIPSTIL
 avatar: /static/images/avatar.jpg
 occupation: Marketing Project Manager
 company: Octopia
